@@ -5,8 +5,8 @@ A CSV with one row per transaction: transaction number, symbol, buyer, seller, q
 Setup
 You need Python 3.9+ and Google Chrome installed.
 ```bash
-git clone https://github.com/murlijha2025/Nepse-Data-Scraping.git
-cd Nepse-Data-Scraping
+git clone https://github.com/murlijha2025/Nepse_Data_Scraping.git
+cd Nepse_Data_Scraping
 pip install -r requirements.txt
 ```
 Selenium 4.6+ handles chromedriver automatically, so there's no manual driver download.
